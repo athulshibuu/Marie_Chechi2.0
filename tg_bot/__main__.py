@@ -26,7 +26,7 @@ python-telegram-bot library ഉപയോഗിച്ചാണ്.... ഞാൻ �
 എന്നെ ഉപയോഗിക്കാൻ ആവിശ്യമായ commandകൾ അറിയാൻ /help കൊടുത്താൽ മതിയാകും..
 വിവരങ്ങൾക്കായി /info  ഉപയോഗിക്കാവുന്നതാണ്...
 
-I am Working In Moviez_Cafe_Request group.You cannot add me to other group.
+I am Working In @Moviez_Cafe_Request group.You cannot add me to other group.
 
 
 """
